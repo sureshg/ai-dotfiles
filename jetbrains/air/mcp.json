@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "exoquery": {
+            "url": "https://backend.exoquery.com/mcp/",
+            "enabled": true
+        },
+        "javadocs": {
+            "url": "https://www.javadocs.dev/mcp/"
+        }
+    }
+}
